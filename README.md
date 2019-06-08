@@ -19,6 +19,7 @@ The metrics currently collected are
 |account_balance |budget_name, name| balance|
 |category_activity|budet_name, name| activity|
 |category_budget| budget_name, name | budget|
+|category_balance| budget_name, name | budget|
 |budget_transactions | budget_name, category_name, payee_name, transactions_id| amount|
 |rate_limit_total| | API limit|
 |rate_limit_used| | requests this hour|

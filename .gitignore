@@ -3,3 +3,6 @@
 .accessToken
 config.json
 target/
+
+# Ignore GoLand files
+.idea/
